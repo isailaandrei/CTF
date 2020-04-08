@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Wed Mar 25 16:36:42 2020
+Invocation: foremost absolutely-relative 
+Output directory: /home/andrei/Desktop/picoCTF/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: absolutely-relative
+Start: Wed Mar 25 16:36:42 2020
+Length: 8 KB (8984 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Wed Mar 25 16:36:42 2020
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Wed Mar 25 16:36:42 2020

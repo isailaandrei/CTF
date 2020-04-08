@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Mar 21 18:09:19 2020
+Invocation: foremost -i husky.png 
+Output directory: /home/andrei/Desktop/picoCTF/bin/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: husky.png
+Start: Sat Mar 21 18:09:19 2020
+Length: 6 MB (6932349 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	       6 MB 	          0 	  (2140 x 2232)
+Finish: Sat Mar 21 18:09:19 2020
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Mar 21 18:09:19 2020
